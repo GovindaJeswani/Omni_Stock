@@ -284,13 +284,13 @@ npm run test
 
 ```
 📁 frontend/public/screenshots/
-- frontend\public\screenshots\dashboard.png
-- frontend\public\screenshots\ai_forecast.png
-- frontend\public\screenshots\store.png
-- frontend\public\screenshots\inventory.png
+![Dashboard](frontend/public/screenshots/dashboard.png)
+![AI Forecast](frontend/public/screenshots/ai_forecast.png)
+![Store](frontend/public/screenshots/store.png)
+![Inventory](frontend/public/screenshots/inventory.png)
+
 ```
 
-(Make sure to upload your screenshots to GitHub)
 
 ---
 
