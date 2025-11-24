@@ -1,0 +1,22 @@
+# D:\Adbms\omnistock\ml-service\requirements.txt
+
+# Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database Connector
+psycopg2-binary
+
+# Data Processing & ML Core
+pandas
+numpy
+scikit-learn
+
+# Time Series Forecasting (using Prophet as a robust, easy-to-demonstrate model)
+prophet # Requires pystan and gcc/C++ tools to install complexly. 
+        # Alternatively, use a simpler XGBoost/sklearn model if prophet install is difficult.
+        # For simplicity, we will assume Prophet installation succeeds or you choose a simple Linear Regression/XGBoost model. 
+        
+# For XGBoost (if Prophet is too complex to install):
+# xgboost
