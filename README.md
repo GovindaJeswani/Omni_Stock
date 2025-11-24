@@ -280,14 +280,14 @@ npm run test
 
 ---
 
-# 📸 Screenshots (Placeholders)
+# 📸 Screenshots 
 
 ```
 📁 frontend/public/screenshots/
-- dashboard.png
-- inventory.png
-- order_page.png
-- ai_forecast.png
+- frontend\public\screenshots\dashboard.png
+- frontend\public\screenshots\ai_forecast.png
+- frontend\public\screenshots\store.png
+- frontend\public\screenshots\inventory.png
 ```
 
 (Make sure to upload your screenshots to GitHub)
